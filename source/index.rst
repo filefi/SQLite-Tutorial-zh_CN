@@ -17,7 +17,7 @@ SQLite Tutorial zh_CN
 
 如果你上述人员之一，那么本教程十分适合你。
 
-SQLite是一个 *开源的*，*零配置的(zero-configuration)*，*自包含的(self-contained)*，*独立的(stand-alone)*，*事务(transaction)* 的关系型数据库引擎，它被设计用于嵌入到应用程序中。
+SQLite是一个 *开源的*，*零配置的 (zero-configuration)*，*自包含的 (self-contained)*，*独立的(stand-alone)*，*事务(transaction)* 的关系型数据库引擎，它被设计用于嵌入到应用程序中。
 
 
 SQLite入门
@@ -39,7 +39,7 @@ SQLite入门
 Section 1. Simple query
 -------------------------
 
-+ `Select <http://www.sqlitetutorial.net/sqlite-select/>`_ – query data from a single table using SELECT statement.
++ `Select <http://www.sqlitetutorial.net/sqlite-select/>`_ – 使用``SELECT``语句从单个表中查询数据。
 
 
 Section 2. Sorting rows
