@@ -3,11 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-#####################
-SQLite-Tutorial-zh_CN
-#####################
 
-SQLite Tutorial
+SQLite Tutorial zh_CN
 =================================================
 
 本 **SQLite教程** 将教你如何有效地开始使用SQLite。你将通过广泛的动手练习来学习SQLite。
