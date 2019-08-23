@@ -1,4 +1,4 @@
-.. NotesOfLearningPython documentation master file, created by
+.. SQLite Tutorial zh_CN documentation master file, created by
    sphinx-quickstart on Mon Mar 25 10:30:19 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
