@@ -33,7 +33,7 @@ SQLite入门
 基本的SQLite教程
 =================
 
-本节介绍可以与SQLite一起使用的基本SQL语句。您将首先开始从`示例数据库 <http://www.sqlitetutorial.net/sqlite-sample-database/>`_ 中查询数据。如果您已经熟悉SQL，那么您会注意到SQLite中SQL标准和SQL方言之间的差异。
+本节介绍可以与SQLite一起使用的基本SQL语句。您将首先开始从 `示例数据库 <http://www.sqlitetutorial.net/sqlite-sample-database/>`_ 中查询数据。如果您已经熟悉SQL，那么您会注意到SQLite中SQL标准和SQL方言之间的差异。
 
 
 Section 1. Simple query
@@ -56,7 +56,7 @@ Section 3. Filtering data
 + `Limit <http://www.sqlitetutorial.net/sqlite-limit/>`_ – constrain the number of rows that you want to return. The LIMIT clause helps you get the necessary data returned by a query.
 + `Between <http://www.sqlitetutorial.net/sqlite-between/>`_ – test whether a value is in a range of values.
 + `In <http://www.sqlitetutorial.net/sqlite-in/>`_ – check if a value matches any value in a list of value or subquery.
-+ `Like http://www.sqlitetutorial.net/sqlite-like/`_ – query data based on pattern matching using wildcard characters: percent sign (%) and underscore (_).
++ `Like <http://www.sqlitetutorial.net/sqlite-like/>`_ – query data based on pattern matching using wildcard characters: percent sign (%) and underscore (_).
 + `Glob <http://www.sqlitetutorial.net/sqlite-glob/>`_ – determine whether a string matches a specific UNIX-pattern.
 + `IS NULL <http://www.sqlitetutorial.net/sqlite-is-null/>`_ – check if a value is null or not.
 
