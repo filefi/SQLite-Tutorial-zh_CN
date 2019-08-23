@@ -36,25 +36,25 @@ SQLite入门
 本节介绍可以与SQLite一起使用的基本SQL语句。您将首先开始从 `示例数据库 <http://www.sqlitetutorial.net/sqlite-sample-database/>`_ 中查询数据。如果您已经熟悉SQL，那么您会注意到SQLite中SQL标准和SQL方言之间的差异。
 
 
-Section 1. Simple query
+第1节 简单查询
 -------------------------
 
 + `Select <http://www.sqlitetutorial.net/sqlite-select/>`_ – 使用 ``SELECT`` 语句从单个表中查询数据。
 
 
-Section 2. Sorting rows
+第2节 对行进行排序
 -------------------------
 
-+ `Order By <http://www.sqlitetutorial.net/sqlite-order-by/>`_ – sort the result set in ascending or descending order.
++ `Order By <http://www.sqlitetutorial.net/sqlite-order-by/>`_ – 以升序(ascending)或降序(descending)对结果集进行排序。
 
 
-Section 3. Filtering data
+第3节 过滤数据
 --------------------------
 
-+ `Select Distinct <http://www.sqlitetutorial.net/sqlite-select-distinct>`_ – query unique rows from a table using the DISTINCT clause.
-+ `Where <http://www.sqlitetutorial.net/sqlite-where/>`_  – filter rows of a result set using various conditions.
-+ `Limit <http://www.sqlitetutorial.net/sqlite-limit/>`_ – constrain the number of rows that you want to return. The LIMIT clause helps you get the necessary data returned by a query.
-+ `Between <http://www.sqlitetutorial.net/sqlite-between/>`_ – test whether a value is in a range of values.
++ `Select Distinct <http://www.sqlitetutorial.net/sqlite-select-distinct>`_ – 使用 ``DISTINCT`` 子句从表中查询 *唯一的* 行。
++ `Where <http://www.sqlitetutorial.net/sqlite-where/>`_  – 使用不同的条件对结果集的行进行过滤。
++ `Limit <http://www.sqlitetutorial.net/sqlite-limit/>`_ – 约束要返回的行数。 ``LIMIT`` 子句可以帮助你获取由查询所返回的必要的数据。
++ `Between <http://www.sqlitetutorial.net/sqlite-between/>`_ – 测试一个值是否在一个范围值内。
 + `In <http://www.sqlitetutorial.net/sqlite-in/>`_ – check if a value matches any value in a list of value or subquery.
 + `Like <http://www.sqlitetutorial.net/sqlite-like/>`_ – query data based on pattern matching using wildcard characters: percent sign (%) and underscore (_).
 + `Glob <http://www.sqlitetutorial.net/sqlite-glob/>`_ – determine whether a string matches a specific UNIX-pattern.
