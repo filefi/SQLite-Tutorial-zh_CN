@@ -33,7 +33,7 @@ SQLite入门
 基本的SQLite教程
 =================
 
-本节介绍可以与SQLite一起使用的基本SQL语句。您将首先开始从`示例数据库 <http://www.sqlitetutorial.net/sqlite-sample-database/>`_中查询数据。如果您已经熟悉SQL，那么您会注意到SQLite中SQL标准和SQL方言之间的差异。
+本节介绍可以与SQLite一起使用的基本SQL语句。您将首先开始从`示例数据库 <http://www.sqlitetutorial.net/sqlite-sample-database/>`_ 中查询数据。如果您已经熟悉SQL，那么您会注意到SQLite中SQL标准和SQL方言之间的差异。
 
 
 Section 1. Simple query
