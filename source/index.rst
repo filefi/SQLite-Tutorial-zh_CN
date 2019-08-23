@@ -39,7 +39,7 @@ SQLite入门
 Section 1. Simple query
 -------------------------
 
-+ `Select <http://www.sqlitetutorial.net/sqlite-select/>`_ – 使用``SELECT``语句从单个表中查询数据。
++ `Select <http://www.sqlitetutorial.net/sqlite-select/>`_ – 使用 ``SELECT`` 语句从单个表中查询数据。
 
 
 Section 2. Sorting rows
